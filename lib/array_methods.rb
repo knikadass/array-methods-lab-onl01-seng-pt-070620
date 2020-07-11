@@ -18,7 +18,8 @@ def using_first(array)
 end
 
 def using_last(array)
-
+   famous_dogs = ["wow", "I", "arrays!"]
+   
 end
 
 def using_size(array)
